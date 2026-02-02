@@ -6,7 +6,7 @@
 
 import { connect } from 'cloudflare:sockets';
 
-let 我的VL密钥 = 'd4f9d75e-7be7-4621-ba0e-61f04f10217a';//UUID
+let 我的VL密钥 = '31a39e87-e8dd-46e8-a2d2-53bc2deaae48';//UUID
 let 反代IP = 'proxyip.cmliussss.net'; //反代IP
 
 export default {
